@@ -1,4 +1,4 @@
-<header>Google_ML</header>
+<h1>Google_ML</h1>
 
 <p>This is a side project of mine which uses Machine Learning algorithms from the Sci-kit learn library to predict Google Stock prices. Although the code can be used for any stock with quandl data.</p> 
 
